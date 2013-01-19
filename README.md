@@ -19,7 +19,7 @@ There will be 2 ethernet :
 ### Card :
 * A Raspberry PI (I bought a rev B - 512 Mo)
 * A case for the Raspberry (optionnal) I bought one on Ebay (3e + 3e for shipping) but taking one on RS site seems to be a better deal (arround 6e but shipping price is covered with the Raspberry Pi card) 
-* An USB to Ethernet adapater
+* An USB to Ethernet adapater (/!\ This is not easy to find one cheap and running... For now I'm trying the official from Apple bought on leboncoin.Fr for 12e
 
 ### Power :
 * PoE extractor Trendnet TPE-114GS, that should be set to 5v,
