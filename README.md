@@ -42,7 +42,7 @@ Configuration files names finished by .txt in order to be easy configured by eve
     /elonet/ : specific folder for the configuration of the application, if someone has to modify something it's here
         |-> ip_configuration.txt : contain the IP configuration for admin
         |-> client_name.txt : contain the name of the client that will prefix capture name
-        |-> ntp_serveur.txt : if set it will configure the NTP server to contact
+        |-> ntp_server.txt : if set it will configure the NTP server to contact
         |-> captures/ : folder that contains captures
         
         
