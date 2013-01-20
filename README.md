@@ -13,6 +13,14 @@ There will be 2 ethernet :
 * The one included will in the Rasperry PI will be for capturing traffic (doing Tcpdump or ?)
 * A second ethernet provided by an "USB to Ethernet adaptater" will be used for admin (with web interface ?) 
 
+## TO DO
+* Everything :-)
+* Log function
+* ntp function
+* IP configuration function
+* nmap installation on the raspberry
+* ntop installation (apache ...)
+* Authentification remote easy to configure
 
 
 ## Hardware Stuff 
@@ -44,6 +52,7 @@ Configuration files names finished by .txt in order to be easy configured by eve
         |-> client_name.txt : contain the name of the client that will prefix capture name
         |-> ntp_server.txt : if set it will configure the NTP server to contact
         |-> captures/ : folder that contains captures
+        |-> log/ : folder for logging informations (day by day)
         
         
 ## How to install ?
