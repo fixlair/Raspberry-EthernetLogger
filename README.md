@@ -46,4 +46,11 @@ Configuration files names finished by .txt in order to be easy configured by eve
         |-> captures/ : folder that contains captures
         
         
-      
+## How to install ?
+### Hardware : 
+1. Put in monitor mode (mirroring) a port of a switch and connect it to the primary ethernet (eth0) of the card
+2. Connect the ADM link on the USB <-> Ethernet adapter
+
+### Software :
+1. Install Raspbian wheezy in last version
+2. 

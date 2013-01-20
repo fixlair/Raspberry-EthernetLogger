@@ -1,0 +1,10 @@
+# This file will automaticaly change parameters in /etc/network/interfaces and do an network restart just after after the boot. This way all the parameters are easy to access
+
+### DHCP ###
+# FUTUR TO Develop, if it's plugged by DHCP it has to send a signal to admin to say wath is the IP and every time the IP change also.
+
+### IP config ###
+# IP for administration
+address = 192.168.11.100
+netmask = 255.255.255.0
+gateway = 192.168.11.1
